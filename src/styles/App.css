@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.user-form {
+  margin-bottom: 40px;
+}
+
+.user-form div {
+  margin: 10px 0;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.admin-dashboard table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.admin-dashboard th,
+.admin-dashboard td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.admin-dashboard th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+.admin-dashboard img {
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
